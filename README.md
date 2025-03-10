@@ -3,8 +3,6 @@ Module 6 assignment: Alternative project
 
 Here are the detailed command history from my set-up
 
-# MODULE 6: ALTERNATIVE PROJECT (OLLAMA)
-
 ## **1. Local Installation of Llama LLM using Ollama [25 pts] [Week-1]**
 
 ### **Objective:**
